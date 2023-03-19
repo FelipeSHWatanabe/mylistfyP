@@ -1,6 +1,6 @@
 import { Button, Form } from 'semantic-ui-react'
 import React, { useState } from 'react';
-//comment
+//create
 const Create = () => {
     const [username, setUsername] = useState('');
     const [email, setEmail] = useState('');

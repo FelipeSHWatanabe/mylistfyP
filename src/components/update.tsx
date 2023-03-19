@@ -1,6 +1,6 @@
 import { Button, Form } from 'semantic-ui-react'
 import React, { useState } from 'react';
-
+//update
 const Update = () => {
     const [username, setUsername] = useState('');
     const [oldPassword, setOldPassword] = useState('');
